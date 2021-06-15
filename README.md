@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering at Botho University
 - 💞️ I’m looking to collaborate on software developement
-- 📫 How to reach me, please call +26659959655
+- 📫 How to reach me, please call +26659959655 or send email to wezimosiuoa@gmail.com
 
 <!---
 wesimosiuoa/wesimosiuoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
