@@ -14,7 +14,7 @@ I’m currently building the official website for **WEZI TECH INSTITUTE OF TECHN
 - **Web Development:** Flask, Laravel, Django, ASP.NET
 - **Programming Languages:** Python, C#, C++, PHP, Java
 - **Machine Learning & Deep Learning:** Skilled in developing and deploying ML/DL models.
-- **Database Management:** Experienced in MySQL, PostgreSQL, and MongoDB.
+- **Database Management:** Experienced in MySQL, MS Server , and Oracle.
 - **Desktop Applications:** Expertise in C++ and C# for desktop software development.
 
 ## 💼 **Projects**
