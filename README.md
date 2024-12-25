@@ -33,7 +33,9 @@ I’m currently building the official website for **WEZI TECH INSTITUTE OF TECHN
 
 ## 🌐 **Connect with Me**
 
-- [GitHub](https://github.com/wesimosiuoa)
-- [LinkedIn](https://linkedin.com/in/mosiuoa-wesi-5419a51b2)
-- Email: wezimosiuoa@gmail.com
+- 🐙 [GitHub](https://github.com/wesimosiuoa)
+- 🔗 [LinkedIn](https://linkedin.com/in/mosiuoa-wesi-5419a51b2)
+- 📧 Email: wezimosiuoa@gmail.com
+- 📱 WhatsApp: +918121725134
+
 
