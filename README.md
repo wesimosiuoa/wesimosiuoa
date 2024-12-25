@@ -35,7 +35,7 @@ I’m currently building the official website for **WEZI TECH INSTITUTE OF TECHN
 
 - 🐙 [GitHub](https://github.com/wesimosiuoa)
 - 🔗 [LinkedIn](https://linkedin.com/in/mosiuoa-wesi-5419a51b2)
-- 📧 Email: wezimosiuoa@gmail.com
-- 📱 WhatsApp: +918121725134
+- 📧 wezimosiuoa@gmail.com
+- 📱 +918121725134
 
 
