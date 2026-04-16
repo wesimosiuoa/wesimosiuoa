@@ -6,7 +6,7 @@
 
 ## 🏫 **About My Work**
 
-I’m currently building the official website for **WEZI TECH INSTITUTE OF TECHNOLOGY**, a platform dedicated to embracing education through technology. I believe strongly in the power of online learning to transform education and make it accessible for everyone.
+I’m currently building the official website for **WTIT**, a platform dedicated to embracing education through technology. I believe strongly in the power of online learning to transform education and make it accessible for everyone.
 
 
 ## 🛠️ **Skills**
