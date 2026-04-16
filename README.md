@@ -19,7 +19,7 @@ I’m currently building the official website for **WTIT**, a platform dedicated
 
 ## 💼 **Projects**
 
-1. **WEZI TECH INSTITUTE OF TECHNOLOGY Website** - Building the official site to enhance online learning and provide accessible education resources.
+1. **WTIT Website** - Building the official site to enhance online learning and provide accessible education resources.
 2. **SmartInstructor** - An AI-based virtual instructor model designed to handle teaching and assessment tasks in online education.
 3. **AgronoAI** - A virtual agronomist AI assisting farmers with data-driven insights.
 4. **AI Seasonal Food Recommender for Restaurants** - A recommendation system using clustering techniques to provide seasonal food suggestions.
